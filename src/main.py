@@ -18,7 +18,7 @@ os.makedirs("visualizations", exist_ok=True)
 # 2. LOAD DATASET
 # ============================================================
 
-DATA_PATH = "data/titanic.csv"
+DATA_PATH = "data/Titanic-Dataset.csv"
 
 print("=" * 60)
 print("TITANIC SURVIVAL - DATA CLEANING PROJECT")
